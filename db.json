@@ -1,49 +1,51 @@
 {
-    "logs": [
-      {
-        "message": "Changed network card in server 007",
-        "attention": false,
-        "tech": "Sam Smith",
-        "date": "2019-05-31T15:46:10.179Z",
-        "id": 1
-      },
-      {
-        "id": 2,
-        "message": "Fixed hard drive on workstation 002",
-        "attention": false,
-        "tech": "John Doe",
-        "date": "2019-05-31T16:18:04.245Z"
-      },
-      {
-        "message": "1122 wireless down",
-        "attention": true,
-        "tech": "Sara Wilson",
-        "date": "2019-05-31T15:46:48.690Z",
-        "id": 3
-      },
-      {
-        "id": 4,
-        "message": "Workstation 026 is up and running",
-        "attention": false,
-        "tech": "Sara Wilson",
-        "date": "2019-05-31T19:57:35.544Z"
-      }
-    ],
-    "techs": [
-      {
-        "id": 1,
-        "firstName": "John",
-        "lastName": "Doe"
-      },
-      {
-        "id": 2,
-        "firstName": "Sam",
-        "lastName": "Smith"
-      },
-      {
-        "id": 3,
-        "firstName": "Sara",
-        "lastName": "Wilson"
-      }
-    ]
-  }
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card in server 007: FIXED",
+      "attention": false,
+      "tech": "will smith",
+      "date": "2021-08-15T15:12:02.236Z"
+    },
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-08-15T05:47:31.466Z"
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T15:46:48.690Z",
+      "id": 3
+    },
+    {
+      "message": "delete windows",
+      "attention": true,
+      "tech": "Bob Dylan",
+      "data": "2021-08-15T04:23:25.224Z",
+      "id": 4
+    },
+    {
+      "message": "update system",
+      "attention": false,
+      "tech": "John Doe",
+      "data": "2021-08-15T04:23:39.068Z",
+      "id": 5
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "david",
+      "lastName": "thomas",
+      "id": 4
+    },
+    {
+      "firstName": "will",
+      "lastName": "smith",
+      "id": 5
+    }
+  ]
+}

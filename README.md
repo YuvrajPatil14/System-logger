@@ -2,6 +2,12 @@
 
 'React Front To Back' on udemy.com
 
+# Features:
+
+System Logs: CRUD for system logs and Technicians
+Search logs
+Backend: JSON server https://github.com/typicode/json-server
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
